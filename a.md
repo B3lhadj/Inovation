@@ -1840,7 +1840,6 @@ socketService.on('anomaly:detected', (data) {
 **Support Channels:**
 - Email: support@innovega.com
 - GitHub Issues: https://github.com/B3lhadj/PFE-Ino/issues
-- Documentation: [Wiki](https://github.com/B3lhadj/PFE-Ino/wiki)
 
 ---
 
